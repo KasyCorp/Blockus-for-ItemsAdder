@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/stone_circle_pavement",
+    "east": "blockus:block/stone_circle_pavement",
+    "north": "blockus:block/stone_circle_pavement",
+    "south": "blockus:block/stone_circle_pavement",
+    "up": "blockus:block/stone_circle_pavement",
+    "west": "blockus:block/stone_circle_pavement",
+    "particle": "blockus:block/stone_circle_pavement"
+  }
+}

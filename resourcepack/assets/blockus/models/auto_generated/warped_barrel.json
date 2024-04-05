@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/warped_barrel_bottom",
+    "east": "blockus:block/warped_barrel_side",
+    "north": "blockus:block/warped_barrel_side",
+    "south": "blockus:block/warped_barrel_side",
+    "up": "blockus:block/warped_barrel_top",
+    "west": "blockus:block/warped_barrel_side",
+    "particle": "blockus:block/warped_barrel_bottom"
+  }
+}

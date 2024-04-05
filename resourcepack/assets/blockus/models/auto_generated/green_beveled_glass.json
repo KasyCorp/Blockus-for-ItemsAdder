@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/green_beveled_glass",
+    "east": "blockus:block/green_beveled_glass",
+    "north": "blockus:block/green_beveled_glass",
+    "south": "blockus:block/green_beveled_glass",
+    "up": "blockus:block/green_beveled_glass",
+    "west": "blockus:block/green_beveled_glass",
+    "particle": "blockus:block/green_beveled_glass"
+  }
+}

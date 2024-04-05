@@ -1,0 +1,7 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "all": "blockus:block/lava_bricks/lava_bricks",
+    "particle": "blockus:block/lava_bricks/lava_bricks"
+  }
+}

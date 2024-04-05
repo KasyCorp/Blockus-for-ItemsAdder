@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/zigzagged_granite",
+    "east": "blockus:block/zigzagged_granite",
+    "north": "blockus:block/zigzagged_granite",
+    "south": "blockus:block/zigzagged_granite",
+    "up": "blockus:block/zigzagged_granite",
+    "west": "blockus:block/zigzagged_granite",
+    "particle": "blockus:block/zigzagged_granite"
+  }
+}

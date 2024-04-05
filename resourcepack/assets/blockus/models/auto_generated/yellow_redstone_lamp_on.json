@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/yellow_redstone_lamp_on",
+    "east": "blockus:block/yellow_redstone_lamp_on",
+    "north": "blockus:block/yellow_redstone_lamp_on",
+    "south": "blockus:block/yellow_redstone_lamp_on",
+    "up": "blockus:block/yellow_redstone_lamp_on",
+    "west": "blockus:block/yellow_redstone_lamp_on",
+    "particle": "blockus:block/yellow_redstone_lamp_on"
+  }
+}

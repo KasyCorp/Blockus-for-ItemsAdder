@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/chorus_block",
+    "east": "blockus:block/chorus_block_side",
+    "north": "blockus:block/chorus_block_side",
+    "south": "blockus:block/chorus_block_side",
+    "up": "blockus:block/chorus_block",
+    "west": "blockus:block/chorus_block_side",
+    "particle": "blockus:block/chorus_block"
+  }
+}

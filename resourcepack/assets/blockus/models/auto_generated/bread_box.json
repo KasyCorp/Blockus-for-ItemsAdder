@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/bread_box_top",
+    "east": "blockus:block/bread_box_side",
+    "north": "blockus:block/bread_box_side",
+    "south": "blockus:block/bread_box_side",
+    "up": "blockus:block/bread_box",
+    "west": "blockus:block/bread_box_side",
+    "particle": "blockus:block/bread_box_top"
+  }
+}

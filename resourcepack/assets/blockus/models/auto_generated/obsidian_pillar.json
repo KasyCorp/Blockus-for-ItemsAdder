@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/obsidian_pillar_top",
+    "east": "blockus:block/obsidian_pillar",
+    "north": "blockus:block/obsidian_pillar",
+    "south": "blockus:block/obsidian_pillar",
+    "up": "blockus:block/obsidian_pillar_top",
+    "west": "blockus:block/obsidian_pillar",
+    "particle": "blockus:block/obsidian_pillar_top"
+  }
+}

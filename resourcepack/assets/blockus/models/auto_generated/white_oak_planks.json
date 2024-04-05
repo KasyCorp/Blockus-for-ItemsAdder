@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/white_oak_planks",
+    "east": "blockus:block/white_oak_planks",
+    "north": "blockus:block/white_oak_planks",
+    "south": "blockus:block/white_oak_planks",
+    "up": "blockus:block/white_oak_planks",
+    "west": "blockus:block/white_oak_planks",
+    "particle": "blockus:block/white_oak_planks"
+  }
+}

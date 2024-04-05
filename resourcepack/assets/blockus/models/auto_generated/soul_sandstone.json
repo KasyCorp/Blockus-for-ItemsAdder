@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/soul_sandstone_bottom",
+    "east": "blockus:block/soul_sandstone",
+    "north": "blockus:block/soul_sandstone",
+    "south": "blockus:block/soul_sandstone",
+    "up": "blockus:block/soul_sandstone_top",
+    "west": "blockus:block/soul_sandstone",
+    "particle": "blockus:block/soul_sandstone_bottom"
+  }
+}

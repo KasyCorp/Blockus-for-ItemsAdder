@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/caution_block",
+    "east": "blockus:block/caution_block",
+    "north": "blockus:block/caution_block",
+    "south": "blockus:block/caution_block",
+    "up": "blockus:block/caution_block",
+    "west": "blockus:block/caution_block",
+    "particle": "blockus:block/caution_block"
+  }
+}

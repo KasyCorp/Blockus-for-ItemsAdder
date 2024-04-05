@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/marble_pillar_top",
+    "east": "blockus:block/marble_pillar",
+    "north": "blockus:block/marble_pillar",
+    "south": "blockus:block/marble_pillar",
+    "up": "blockus:block/marble_pillar_top",
+    "west": "blockus:block/marble_pillar",
+    "particle": "blockus:block/marble_pillar_top"
+  }
+}

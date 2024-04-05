@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/charred_planks",
+    "east": "blockus:block/charred_planks",
+    "north": "blockus:block/charred_planks",
+    "south": "blockus:block/charred_planks",
+    "up": "blockus:block/charred_planks",
+    "west": "blockus:block/charred_planks",
+    "particle": "blockus:block/charred_planks"
+  }
+}

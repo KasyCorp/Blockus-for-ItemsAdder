@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/red_shingles",
+    "east": "blockus:block/red_shingles",
+    "north": "blockus:block/red_shingles",
+    "south": "blockus:block/red_shingles",
+    "up": "blockus:block/red_shingles",
+    "west": "blockus:block/red_shingles",
+    "particle": "blockus:block/red_shingles"
+  }
+}

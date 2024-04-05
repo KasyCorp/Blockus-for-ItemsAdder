@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/crimson_timber_frame",
+    "east": "blockus:block/crimson_cross_timber_frame",
+    "north": "blockus:block/crimson_cross_timber_frame",
+    "south": "blockus:block/crimson_cross_timber_frame",
+    "up": "blockus:block/crimson_timber_frame",
+    "west": "blockus:block/crimson_cross_timber_frame",
+    "particle": "blockus:block/crimson_timber_frame"
+  }
+}

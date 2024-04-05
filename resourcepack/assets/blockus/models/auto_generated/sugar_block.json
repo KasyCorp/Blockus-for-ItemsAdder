@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/sugar_block",
+    "east": "blockus:block/sugar_block",
+    "north": "blockus:block/sugar_block",
+    "south": "blockus:block/sugar_block",
+    "up": "blockus:block/sugar_block",
+    "west": "blockus:block/sugar_block",
+    "particle": "blockus:block/sugar_block"
+  }
+}

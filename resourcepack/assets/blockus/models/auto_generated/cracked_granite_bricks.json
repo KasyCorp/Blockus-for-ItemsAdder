@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/cracked_granite_bricks",
+    "east": "blockus:block/cracked_granite_bricks",
+    "north": "blockus:block/cracked_granite_bricks",
+    "south": "blockus:block/cracked_granite_bricks",
+    "up": "blockus:block/cracked_granite_bricks",
+    "west": "blockus:block/cracked_granite_bricks",
+    "particle": "blockus:block/cracked_granite_bricks"
+  }
+}

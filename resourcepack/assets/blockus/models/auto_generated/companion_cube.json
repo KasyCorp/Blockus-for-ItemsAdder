@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/companion_cube",
+    "east": "blockus:block/companion_cube",
+    "north": "blockus:block/companion_cube",
+    "south": "blockus:block/companion_cube",
+    "up": "blockus:block/companion_cube",
+    "west": "blockus:block/companion_cube",
+    "particle": "blockus:block/companion_cube"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/weight_storage_cube",
+    "east": "blockus:block/weight_storage_cube",
+    "north": "blockus:block/weight_storage_cube",
+    "south": "blockus:block/weight_storage_cube",
+    "up": "blockus:block/weight_storage_cube",
+    "west": "blockus:block/weight_storage_cube",
+    "particle": "blockus:block/weight_storage_cube"
+  }
+}

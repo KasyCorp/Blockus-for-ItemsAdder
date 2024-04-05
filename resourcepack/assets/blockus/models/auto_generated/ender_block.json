@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/ender_block",
+    "east": "blockus:block/ender_block",
+    "north": "blockus:block/ender_block",
+    "south": "blockus:block/ender_block",
+    "up": "blockus:block/ender_block",
+    "west": "blockus:block/ender_block",
+    "particle": "blockus:block/ender_block"
+  }
+}

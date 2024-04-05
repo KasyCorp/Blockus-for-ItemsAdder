@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/zigzagged_polished_blackstone",
+    "east": "blockus:block/zigzagged_polished_blackstone",
+    "north": "blockus:block/zigzagged_polished_blackstone",
+    "south": "blockus:block/zigzagged_polished_blackstone",
+    "up": "blockus:block/zigzagged_polished_blackstone",
+    "west": "blockus:block/zigzagged_polished_blackstone",
+    "particle": "blockus:block/zigzagged_polished_blackstone"
+  }
+}

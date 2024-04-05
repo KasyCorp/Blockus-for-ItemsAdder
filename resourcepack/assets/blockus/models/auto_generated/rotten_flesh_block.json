@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/rotten_flesh_block",
+    "east": "blockus:block/rotten_flesh_block",
+    "north": "blockus:block/rotten_flesh_block",
+    "south": "blockus:block/rotten_flesh_block",
+    "up": "blockus:block/rotten_flesh_block",
+    "west": "blockus:block/rotten_flesh_block",
+    "particle": "blockus:block/rotten_flesh_block"
+  }
+}

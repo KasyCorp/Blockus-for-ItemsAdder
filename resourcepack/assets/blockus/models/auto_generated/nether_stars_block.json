@@ -1,0 +1,7 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "all": "blockus:block/nether_stars_block/nether_stars_block",
+    "particle": "blockus:block/nether_stars_block/nether_stars_block"
+  }
+}

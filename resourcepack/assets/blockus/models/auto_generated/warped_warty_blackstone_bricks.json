@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/warped_warty_blackstone_bricks",
+    "east": "blockus:block/warped_warty_blackstone_bricks",
+    "north": "blockus:block/warped_warty_blackstone_bricks",
+    "south": "blockus:block/warped_warty_blackstone_bricks",
+    "up": "blockus:block/warped_warty_blackstone_bricks",
+    "west": "blockus:block/warped_warty_blackstone_bricks",
+    "particle": "blockus:block/warped_warty_blackstone_bricks"
+  }
+}

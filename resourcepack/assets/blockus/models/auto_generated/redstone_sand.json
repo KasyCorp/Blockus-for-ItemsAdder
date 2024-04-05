@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/redstone_sand",
+    "east": "blockus:block/redstone_sand",
+    "north": "blockus:block/redstone_sand",
+    "south": "blockus:block/redstone_sand",
+    "up": "blockus:block/redstone_sand",
+    "west": "blockus:block/redstone_sand",
+    "particle": "blockus:block/redstone_sand"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/wooden_frame",
+    "east": "blockus:block/wooden_frame",
+    "north": "blockus:block/wooden_frame",
+    "south": "blockus:block/wooden_frame",
+    "up": "blockus:block/wooden_frame",
+    "west": "blockus:block/wooden_frame",
+    "particle": "blockus:block/wooden_frame"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/charred_barrel_bottom",
+    "east": "blockus:block/charred_barrel_side",
+    "north": "blockus:block/charred_barrel_side",
+    "south": "blockus:block/charred_barrel_side",
+    "up": "blockus:block/charred_barrel_top",
+    "west": "blockus:block/charred_barrel_side",
+    "particle": "blockus:block/charred_barrel_bottom"
+  }
+}

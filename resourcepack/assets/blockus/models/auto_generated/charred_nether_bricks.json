@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/charred_nether_bricks",
+    "east": "blockus:block/charred_nether_bricks",
+    "north": "blockus:block/charred_nether_bricks",
+    "south": "blockus:block/charred_nether_bricks",
+    "up": "blockus:block/charred_nether_bricks",
+    "west": "blockus:block/charred_nether_bricks",
+    "particle": "blockus:block/charred_nether_bricks"
+  }
+}

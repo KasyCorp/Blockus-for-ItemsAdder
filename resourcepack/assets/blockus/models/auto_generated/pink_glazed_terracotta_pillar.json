@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/pink_glazed_terracotta_pillar_top",
+    "east": "blockus:block/pink_glazed_terracotta_pillar",
+    "north": "blockus:block/pink_glazed_terracotta_pillar",
+    "south": "blockus:block/pink_glazed_terracotta_pillar",
+    "up": "blockus:block/pink_glazed_terracotta_pillar_top",
+    "west": "blockus:block/pink_glazed_terracotta_pillar",
+    "particle": "blockus:block/pink_glazed_terracotta_pillar_top"
+  }
+}

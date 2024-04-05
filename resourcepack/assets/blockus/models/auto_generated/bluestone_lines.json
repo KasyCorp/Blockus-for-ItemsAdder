@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/bluestone_lines",
+    "east": "blockus:block/bluestone_lines",
+    "north": "blockus:block/bluestone_lines",
+    "south": "blockus:block/bluestone_lines",
+    "up": "blockus:block/bluestone_lines",
+    "west": "blockus:block/bluestone_lines",
+    "particle": "blockus:block/bluestone_lines"
+  }
+}

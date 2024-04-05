@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/polished_end_stone",
+    "east": "blockus:block/polished_end_stone",
+    "north": "blockus:block/polished_end_stone",
+    "south": "blockus:block/polished_end_stone",
+    "up": "blockus:block/polished_end_stone",
+    "west": "blockus:block/polished_end_stone",
+    "particle": "blockus:block/polished_end_stone"
+  }
+}

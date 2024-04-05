@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/spruce_small_logs_top",
+    "east": "blockus:block/spruce_small_logs",
+    "north": "blockus:block/spruce_small_logs",
+    "south": "blockus:block/spruce_small_logs",
+    "up": "blockus:block/spruce_small_logs_top",
+    "west": "blockus:block/spruce_small_logs",
+    "particle": "blockus:block/spruce_small_logs_top"
+  }
+}

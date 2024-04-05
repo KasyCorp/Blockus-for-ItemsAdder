@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/lantern_top",
+    "east": "blockus:block/soul_o_lantern",
+    "north": "blockus:block/soul_o_lantern",
+    "south": "blockus:block/soul_o_lantern",
+    "up": "blockus:block/lantern_top",
+    "west": "blockus:block/soul_o_lantern",
+    "particle": "blockus:block/lantern_top"
+  }
+}

@@ -1,8 +1,0 @@
-info:
-  namespace: Blockus
-items:
-  red_block:
-    display_name: Red Block
-    permission: red_block
-    resource:
-      material: PAPER

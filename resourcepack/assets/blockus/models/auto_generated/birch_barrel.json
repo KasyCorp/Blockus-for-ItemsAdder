@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/birch_barrel_bottom",
+    "east": "blockus:block/birch_barrel_side",
+    "north": "blockus:block/birch_barrel_side",
+    "south": "blockus:block/birch_barrel_side",
+    "up": "blockus:block/birch_barrel_top",
+    "west": "blockus:block/birch_barrel_side",
+    "particle": "blockus:block/birch_barrel_bottom"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "all": "blockus:block/rainbow_block/rainbow_block",
+    "particle": "blockus:block/rainbow_block/rainbow_block"
+  }
+}

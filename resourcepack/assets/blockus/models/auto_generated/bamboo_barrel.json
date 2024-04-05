@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/bamboo_barrel_bottom",
+    "east": "blockus:block/bamboo_barrel_side",
+    "north": "blockus:block/bamboo_barrel_side",
+    "south": "blockus:block/bamboo_barrel_side",
+    "up": "blockus:block/bamboo_barrel_top",
+    "west": "blockus:block/bamboo_barrel_side",
+    "particle": "blockus:block/bamboo_barrel_bottom"
+  }
+}

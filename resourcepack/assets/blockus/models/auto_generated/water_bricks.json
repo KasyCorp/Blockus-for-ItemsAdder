@@ -1,0 +1,7 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "all": "blockus:block/water_bricks/water_bricks",
+    "particle": "blockus:block/water_bricks/water_bricks"
+  }
+}

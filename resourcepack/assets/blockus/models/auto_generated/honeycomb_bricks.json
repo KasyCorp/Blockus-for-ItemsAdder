@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/honeycomb_bricks",
+    "east": "blockus:block/honeycomb_bricks",
+    "north": "blockus:block/honeycomb_bricks",
+    "south": "blockus:block/honeycomb_bricks",
+    "up": "blockus:block/honeycomb_bricks",
+    "west": "blockus:block/honeycomb_bricks",
+    "particle": "blockus:block/honeycomb_bricks"
+  }
+}

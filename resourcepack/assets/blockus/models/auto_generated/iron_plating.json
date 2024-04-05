@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/iron_plating",
+    "east": "blockus:block/iron_plating",
+    "north": "blockus:block/iron_plating",
+    "south": "blockus:block/iron_plating",
+    "up": "blockus:block/iron_plating",
+    "west": "blockus:block/iron_plating",
+    "particle": "blockus:block/iron_plating"
+  }
+}

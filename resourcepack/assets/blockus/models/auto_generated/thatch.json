@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/thatch",
+    "east": "blockus:block/thatch",
+    "north": "blockus:block/thatch",
+    "south": "blockus:block/thatch",
+    "up": "blockus:block/thatch",
+    "west": "blockus:block/thatch",
+    "particle": "blockus:block/thatch"
+  }
+}

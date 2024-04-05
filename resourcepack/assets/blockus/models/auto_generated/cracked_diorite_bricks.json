@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/cracked_diorite_bricks",
+    "east": "blockus:block/cracked_diorite_bricks",
+    "north": "blockus:block/cracked_diorite_bricks",
+    "south": "blockus:block/cracked_diorite_bricks",
+    "up": "blockus:block/cracked_diorite_bricks",
+    "west": "blockus:block/cracked_diorite_bricks",
+    "particle": "blockus:block/cracked_diorite_bricks"
+  }
+}

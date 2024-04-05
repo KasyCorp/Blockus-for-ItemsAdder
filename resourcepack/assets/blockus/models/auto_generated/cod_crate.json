@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/fish_crate_bottom",
+    "east": "blockus:block/fish_crate_side",
+    "north": "blockus:block/fish_crate_side",
+    "south": "blockus:block/fish_crate_side",
+    "up": "blockus:block/cod_crate",
+    "west": "blockus:block/fish_crate_side",
+    "particle": "blockus:block/fish_crate_bottom"
+  }
+}

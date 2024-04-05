@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/blaze_block",
+    "east": "blockus:block/blaze_block",
+    "north": "blockus:block/blaze_block",
+    "south": "blockus:block/blaze_block",
+    "up": "blockus:block/blaze_block",
+    "west": "blockus:block/blaze_block",
+    "particle": "blockus:block/blaze_block"
+  }
+}

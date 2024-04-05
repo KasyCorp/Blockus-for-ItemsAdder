@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/acacia_barrel_bottom",
+    "east": "blockus:block/acacia_barrel_side",
+    "north": "blockus:block/acacia_barrel_side",
+    "south": "blockus:block/acacia_barrel_side",
+    "up": "blockus:block/acacia_barrel_top",
+    "west": "blockus:block/acacia_barrel_side",
+    "particle": "blockus:block/acacia_barrel_bottom"
+  }
+}

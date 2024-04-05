@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/warped_timber_frame",
+    "east": "blockus:block/warped_cross_timber_frame",
+    "north": "blockus:block/warped_cross_timber_frame",
+    "south": "blockus:block/warped_cross_timber_frame",
+    "up": "blockus:block/warped_timber_frame",
+    "west": "blockus:block/warped_cross_timber_frame",
+    "particle": "blockus:block/warped_timber_frame"
+  }
+}

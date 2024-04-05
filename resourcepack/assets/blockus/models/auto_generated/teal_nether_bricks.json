@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/teal_nether_bricks",
+    "east": "blockus:block/teal_nether_bricks",
+    "north": "blockus:block/teal_nether_bricks",
+    "south": "blockus:block/teal_nether_bricks",
+    "up": "blockus:block/teal_nether_bricks",
+    "west": "blockus:block/teal_nether_bricks",
+    "particle": "blockus:block/teal_nether_bricks"
+  }
+}

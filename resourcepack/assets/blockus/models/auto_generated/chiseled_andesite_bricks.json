@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/chiseled_andesite_bricks",
+    "east": "blockus:block/chiseled_andesite_bricks",
+    "north": "blockus:block/chiseled_andesite_bricks",
+    "south": "blockus:block/chiseled_andesite_bricks",
+    "up": "blockus:block/chiseled_andesite_bricks",
+    "west": "blockus:block/chiseled_andesite_bricks",
+    "particle": "blockus:block/chiseled_andesite_bricks"
+  }
+}

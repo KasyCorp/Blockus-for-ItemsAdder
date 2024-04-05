@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/polished_netherrack",
+    "east": "blockus:block/polished_netherrack",
+    "north": "blockus:block/polished_netherrack",
+    "south": "blockus:block/polished_netherrack",
+    "up": "blockus:block/polished_netherrack",
+    "west": "blockus:block/polished_netherrack",
+    "particle": "blockus:block/polished_netherrack"
+  }
+}

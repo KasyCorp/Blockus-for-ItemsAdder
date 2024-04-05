@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/crimson_small_stems_top",
+    "east": "blockus:block/crimson_small_stems",
+    "north": "blockus:block/crimson_small_stems",
+    "south": "blockus:block/crimson_small_stems",
+    "up": "blockus:block/crimson_small_stems_top",
+    "west": "blockus:block/crimson_small_stems",
+    "particle": "blockus:block/crimson_small_stems_top"
+  }
+}

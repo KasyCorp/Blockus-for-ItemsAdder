@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/magenta_black_colored_tiles",
+    "east": "blockus:block/magenta_black_colored_tiles",
+    "north": "blockus:block/magenta_black_colored_tiles",
+    "south": "blockus:block/magenta_black_colored_tiles",
+    "up": "blockus:block/magenta_black_colored_tiles",
+    "west": "blockus:block/magenta_black_colored_tiles",
+    "particle": "blockus:block/magenta_black_colored_tiles"
+  }
+}

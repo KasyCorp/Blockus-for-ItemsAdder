@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_real",
+  "textures": {
+    "down": "blockus:block/bluestone",
+    "east": "blockus:block/bluestone",
+    "north": "blockus:block/bluestone",
+    "south": "blockus:block/bluestone",
+    "up": "blockus:block/bluestone",
+    "west": "blockus:block/bluestone",
+    "particle": "blockus:block/bluestone"
+  }
+}

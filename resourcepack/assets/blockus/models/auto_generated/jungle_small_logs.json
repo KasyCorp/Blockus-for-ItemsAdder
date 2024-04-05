@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/jungle_small_logs_top",
+    "east": "blockus:block/jungle_small_logs",
+    "north": "blockus:block/jungle_small_logs",
+    "south": "blockus:block/jungle_small_logs",
+    "up": "blockus:block/jungle_small_logs_top",
+    "west": "blockus:block/jungle_small_logs",
+    "particle": "blockus:block/jungle_small_logs_top"
+  }
+}

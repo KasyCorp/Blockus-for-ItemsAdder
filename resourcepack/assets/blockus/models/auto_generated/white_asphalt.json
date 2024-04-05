@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/white_asphalt",
+    "east": "blockus:block/white_asphalt",
+    "north": "blockus:block/white_asphalt",
+    "south": "blockus:block/white_asphalt",
+    "up": "blockus:block/white_asphalt",
+    "west": "blockus:block/white_asphalt",
+    "particle": "blockus:block/white_asphalt"
+  }
+}

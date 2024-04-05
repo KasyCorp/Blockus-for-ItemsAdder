@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/road_barrier",
+    "east": "blockus:block/road_barrier",
+    "north": "blockus:block/road_barrier",
+    "south": "blockus:block/road_barrier",
+    "up": "blockus:block/road_barrier",
+    "west": "blockus:block/road_barrier",
+    "particle": "blockus:block/road_barrier"
+  }
+}

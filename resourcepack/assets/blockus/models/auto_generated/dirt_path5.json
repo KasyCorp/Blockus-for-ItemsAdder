@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/dirt_path5",
+    "east": "blockus:block/dirt_path_side",
+    "north": "blockus:block/dirt_path_side",
+    "south": "blockus:block/dirt_path_side",
+    "up": "blockus:block/dirt_path5",
+    "west": "blockus:block/dirt_path_side",
+    "particle": "blockus:block/dirt_path5"
+  }
+}

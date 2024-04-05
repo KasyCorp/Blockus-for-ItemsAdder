@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/cookie_block",
+    "east": "blockus:block/cookie_block",
+    "north": "blockus:block/cookie_block",
+    "south": "blockus:block/cookie_block",
+    "up": "blockus:block/cookie_block",
+    "west": "blockus:block/cookie_block",
+    "particle": "blockus:block/cookie_block"
+  }
+}

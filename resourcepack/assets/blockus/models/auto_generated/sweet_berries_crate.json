@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/crate_bottom",
+    "east": "blockus:block/sweet_berries_crate_side",
+    "north": "blockus:block/sweet_berries_crate_side",
+    "south": "blockus:block/sweet_berries_crate_side",
+    "up": "blockus:block/sweet_berries_crate",
+    "west": "blockus:block/sweet_berries_crate_side",
+    "particle": "blockus:block/crate_bottom"
+  }
+}

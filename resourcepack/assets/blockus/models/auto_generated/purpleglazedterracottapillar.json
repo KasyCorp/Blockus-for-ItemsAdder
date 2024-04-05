@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/purpleglazedterracottapillartop",
+    "east": "blockus:block/purpleglazedterracottapillar",
+    "north": "blockus:block/purpleglazedterracottapillar",
+    "south": "blockus:block/purpleglazedterracottapillar",
+    "up": "blockus:block/purpleglazedterracottapillartop",
+    "west": "blockus:block/purpleglazedterracottapillar",
+    "particle": "blockus:block/purpleglazedterracottapillartop"
+  }
+}

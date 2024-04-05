@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/jungle_timber_frame",
+    "east": "blockus:block/jungle_cross_timber_frame",
+    "north": "blockus:block/jungle_cross_timber_frame",
+    "south": "blockus:block/jungle_cross_timber_frame",
+    "up": "blockus:block/jungle_timber_frame",
+    "west": "blockus:block/jungle_cross_timber_frame",
+    "particle": "blockus:block/jungle_timber_frame"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/oak_barrel_bottom",
+    "east": "blockus:block/oak_barrel_side",
+    "north": "blockus:block/oak_barrel_side",
+    "south": "blockus:block/oak_barrel_side",
+    "up": "blockus:block/oak_barrel_top",
+    "west": "blockus:block/oak_barrel_side",
+    "particle": "blockus:block/oak_barrel_bottom"
+  }
+}

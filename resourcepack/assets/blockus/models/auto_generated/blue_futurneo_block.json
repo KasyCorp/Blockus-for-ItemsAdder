@@ -1,0 +1,12 @@
+{
+  "parent": "block/base/block_tile",
+  "textures": {
+    "down": "blockus:block/blue_futurneo_block",
+    "east": "blockus:block/blue_futurneo_block",
+    "north": "blockus:block/blue_futurneo_block",
+    "south": "blockus:block/blue_futurneo_block",
+    "up": "blockus:block/blue_futurneo_block",
+    "west": "blockus:block/blue_futurneo_block",
+    "particle": "blockus:block/blue_futurneo_block"
+  }
+}
